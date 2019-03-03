@@ -1,8 +1,9 @@
 # slack-microservice
 node.js microservice using slack's api
 
-
-Build a microservice-based system using Node.js. In the industry, Node.js is widely used to implement microservices that consume and provide APIs
+Project Objective:
+Build a microservice-based system using Node.js.
+It's a real time event driven service that connects to slack's api along with other neat tools like natural language processing and ai  
 
 Checkpoints:
 Using Slack APIs
