@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jorge-Cano/slack-microservice/issues"
   },
-  "homepage": "https://github.com/Jorge-Cano/slack-microservice#readme"
+  "homepage": "https://github.com/Jorge-Cano/slack-microservice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
