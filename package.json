@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Jorge-Cano/slack-microservice#readme",
   "dependencies": {
+    "@slack/client": "^4.10.0",
     "express": "^4.16.4"
   }
 }
